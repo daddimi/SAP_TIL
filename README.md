@@ -21,12 +21,17 @@ MS SQL 다운로드 - LINK [SAPJAM PAGE](https://jam4.sapjam.com/groups/fFJ00g5L
 0409 SQL - 실습 및 SQL 수업 총 정리, 시험, 간단 파이썬
 
 
+
+
 ## PYTHON 
 
+0413 PYTHON - 이론 및 실습 (변수 설정, print, if 문)
 
-0413 PYTHON - PYTHON 이론 및 
+0414 PYTHON - 이론 및 실습 (1 - for 문, 2 - while 문)
+
+
 
 ## MENTORING
 
-0410 멘토링 - 모듈, abap 오리엔테이션
+0410 멘토링 - 오리엔테이션
 
