@@ -29,6 +29,8 @@ MS SQL 다운로드 - LINK [SAPJAM PAGE](https://jam4.sapjam.com/groups/fFJ00g5L
 
 0414 PYTHON - 이론 및 실습 (1 - for 문, 2 - while 문)
 
+0415 PYTHON - 이론 및 실습 (1 - for/while 문으로 별 찍기, 2 - 리스트)
+
 
 
 ## MENTORING
