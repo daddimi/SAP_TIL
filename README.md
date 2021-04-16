@@ -25,6 +25,8 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 ## PYTHON 
 
+[Visual Studio](https://visualstudio.microsoft.com/ko/free-developer-offers/) 에서 파이썬 선택 후 설치
+
 0413 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0413_PYTHON.md) 및 실습 ([1](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0413_PYTHON1/0413_PYTHON1/_0413_PYTHON1.py) - 변수 설정, print, if 문,  [2](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0413_PYTHON2/0413_PYTHON2/_0413_PYTHON2.py) - input, if 사용 계산기 만들기)
 
 0414 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0414_PYTHON.md) 및 * 찍기 실습 ([1](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0414_PYTHON1/0414_PYTHON1/_0414_PYTHON1.py) - for 문, [2](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0414_PYTHON2/0414_PYTHON2/_0414_PYTHON2.py) - while 문)
