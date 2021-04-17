@@ -14,11 +14,11 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0406 SQL - 기본 이론 (정의어, 조작어, 제어어)
 
-0407 SQL - 0406의 이론 실습
+0407 SQL - 0406의 이론 보충 및 실습
 
-0408 SQL - 교재 예제 실습, 기타 실습
+0408 [SQL](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0408_SQL1.sql) - 교재 예제 실습, 기타 실습
 
-0409 SQL - 실습 및 SQL 수업 총 정리, 시험, 간단 파이썬
+0409 SQL - 전체 내용 실습, 시험공지, 간단 파이썬 ([1](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0409_SQL1.sql), [2](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0409_SQL2.sql), [practice](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0409_SQL_PRACTICE.sql))
 
 
 
@@ -33,6 +33,8 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0415 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0415_PYTHON.md) 및 실습 ([1](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0415_PYTHON1/0415_PYTHON1/_0415_PYTHON1.py) - for/while 문으로 * 찍기, [2](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0415_PYTHON2/0415_PYTHON2/_0415_PYTHON2.py) - 리스트)
 
+0416 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0416_PYTHON.md) 및 [실습](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0416_PYTHON1/0416_PYTHON1/_0416_PYTHON1.py) (함수)
+
 
 
 ## MENTORING
@@ -42,5 +44,5 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 
 ## ETC
-기타 
+[기타](https://github.com/daddimi/SAP_TIL/tree/main/etc)
 
