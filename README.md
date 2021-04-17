@@ -41,6 +41,8 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0410 멘토링 - 오리엔테이션
 
+0417 멘토링 - 기본 SAP 오버뷰
+
 
 
 ## ETC
