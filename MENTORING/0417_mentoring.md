@@ -212,7 +212,7 @@ SAP Menu
 
 -Logistics -> Production -> Material Master
 
-material master -> 학번과 같이 material을 관리하는 고유한 . 네이밍 룰이 o .
+**material master**(자재) -> 학번과 같이 material을 관리하는 고유한 . 네이밍 룰이 o .
 
 재고관리를 위해 필요한 두가지 -> material master와 창고!
 
@@ -243,7 +243,7 @@ ex) 수제비 한 그릇을 만드는데 필요한 밀가루 몇g, 기계반죽�
 
 
 
-**Routing** - 물건을 만들기 위해 순서대로 거쳐가는 공정스케줄(루트) 이때 각자 거쳐가는 공정하는 공장 들을 **워크센터**라고 함(가공할때 들어가는 비용을 계산)
+**Routing**(공정순서도) - 물건을 만들기 위해 순서대로 거쳐가는 공정스케줄(루트) 이때 각자 거쳐가는 공정하는 공장 들을 **워크센터**(Work Center 작업장)라고 함(가공할때 들어가는 비용을 계산)
 
 
 
