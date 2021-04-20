@@ -12,9 +12,9 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0403 MS SQL - GROUP BY, ORDER BY, LEFT OUTER JOIN ([1](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0403_SQL1.sql), [2](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0403_SQL2.sql), [practice](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0403_SQL_PRACTICE.sql))
 
-0406 SQL - 기본 이론 (정의어, 조작어, 제어어)
+0406 SQL - 기본 [이론](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0406_database.md) (정의어, 조작어, 제어어)
 
-0407 SQL - 0406의 이론 보충 및 실습
+0407 SQL - 0406의 [이론](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0407_database.md) 보충 및 [실습](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0407_SQL1.sql)
 
 0408 [SQL](https://github.com/daddimi/SAP_TIL/blob/main/DATABASE/SQL_APRIL/0408_SQL1.sql) - 교재 예제 실습, 기타 실습
 
@@ -35,13 +35,15 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0416 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0416_PYTHON.md) 및 [실습](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0416_PYTHON1/0416_PYTHON1/_0416_PYTHON1.py) (함수)
 
+0420 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0420_PYTHON.md) 및 [실습](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0420_PYTHON1/0420_PYTHON1/_0420_PYTHON1.py) (문자열, 파일처리)
+
 
 
 ## MENTORING
 
 0410 멘토링 - 오리엔테이션
 
-0417 멘토링 - 기본 SAP 오버뷰
+0417 [멘토링](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0417_mentoring.md) - 기본 SAP 오버뷰
 
 
 
