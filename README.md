@@ -37,6 +37,8 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0420 PYTHON - [이론](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0420_PYTHON.md) 및 [실습](https://github.com/daddimi/SAP_TIL/blob/main/PYTHON/PYTHON_APRIL/0420_PYTHON1/0420_PYTHON1/_0420_PYTHON1.py) (문자열, 파일처리)
 
+0421 PYTHON - 이론 및 실습 (객체지향 클래스)
+
 
 
 ## MENTORING
