@@ -39,15 +39,17 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0421 PYTHON - 이론 및 실습 (객체지향 클래스)
 
+0422 PYTHON - 이론 및 실습 (윈도우 프로그래밍)
+
 
 
 ## MENTORING
 
 0410 멘토링 - 오리엔테이션
 
-0417 [멘토링](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0417_mentoring.md) - 기본 SAP 오버뷰
+0417 [멘토링](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0417_mentoring.md) - 기본 SAP 오버뷰, navigation, pp오버뷰
 
-
+0424 멘토링 - mm오버뷰, 테이블 이론 및 생성
 
 ## ETC
 [기타](https://github.com/daddimi/SAP_TIL/tree/main/etc)
