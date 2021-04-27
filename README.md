@@ -42,6 +42,9 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 0422 PYTHON - 이론 및 실습 (윈도우 프로그래밍)
 
 
+## RPA
+
+0427 RPA - Automate One 실습 (변수, 정의, 반복문)
 
 ## MENTORING
 
