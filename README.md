@@ -46,6 +46,8 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0427 RPA - Automate One 실습 (변수, 정의, 반복문)
 
+0428 RPA - Automate One 실습 (분기, 클립보드, 이미지 매칭)
+
 ## MENTORING
 
 0410 멘토링 - 오리엔테이션
