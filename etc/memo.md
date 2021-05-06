@@ -14,7 +14,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 사유 
 
-
+<img src = "C:\Users\User\Desktop\SAP_TIL\etc\capture.PNG"></img>
 
 
 
