@@ -25,10 +25,3 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 //*[@id="contents"]/div[2]/div[1]/div[3]/div/a[1]
 
 //*[@id="contents"]/div[2]/div[1]/div[3]/div/a[1]
-
-
-
-
-
-![수업캡처]("C:\Users\User\Desktop\SAP_TIL\etc\capture.PNG")
-
