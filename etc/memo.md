@@ -28,3 +28,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
+
+
+![수업캡처]("C:\Users\User\Desktop\SAP_TIL\etc\capture.PNG")
+
