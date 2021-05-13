@@ -58,7 +58,9 @@ MS SQL 다운로드 - [SAPJAM](https://jam4.sapjam.com/groups/fFJ00g5Ls7H8YGIFkj
 
 0417 [멘토링](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0417_mentoring.md) - 기본 SAP 오버뷰, navigation, pp오버뷰
 
-0424 멘토링 - mm오버뷰, 테이블 이론 및 생성
+0424 [멘토링](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0424_mentoring.md) - mm오버뷰, 테이블 이론 및 생성
+
+0508 멘토링 - [abap기초](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0508_mentoring_code.md), [fi오버뷰](https://github.com/daddimi/SAP_TIL/blob/main/MENTORING/0508_mentoring.md)
 
 ## ETC
 [기타](https://github.com/daddimi/SAP_TIL/tree/main/etc)
