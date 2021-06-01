@@ -1,5 +1,11 @@
 # SAP_TIL
 
+2021.04.01~
+SAP 인공지능반 수업 코드 정리
+
+DATABASE / PYTHON / RPA / SAP-MENTORING
+
+
 ## DATABASE
 
 ### SQL_APRIL
