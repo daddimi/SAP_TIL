@@ -6,6 +6,7 @@ SAP 인공지능반 수업 코드 정리
 
 
 05.15~
+
 https://www.notion.so/SAP_TIL-acb5bef2ffcf48f4b9bc48718ce70d7d
 
 
