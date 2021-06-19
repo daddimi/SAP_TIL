@@ -16,3 +16,21 @@ REPORT ZAI226R01.
 
  WRITE : LV_CHAR,
     LV_NUMC.
+    
+    
+    
+    
+    
+    
+    method 와 methods 의 차이점 딱히 없다...
+    ---------------
+    describe table 뒤에는 무조건 internal table 이 온다.
+    -------------------------------------
+    메세지 클래스에서 &를 통해 변수를 4개까지 받아서 쓸 수 있다. 
+    ----------------------
+    COMPARING 은 DELETE 구문 사용시 
+    READ TABLE 은 WITH KEY 사용
+    ------------------------------------
+    
+ 
+    
