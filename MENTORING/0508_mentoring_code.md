@@ -31,6 +31,8 @@ REPORT ZAI226R01.
     COMPARING 은 DELETE 구문 사용시 
     READ TABLE 은 WITH KEY 사용
     ------------------------------------
+    for all entries
+    ------------------------------------
     
  
     
