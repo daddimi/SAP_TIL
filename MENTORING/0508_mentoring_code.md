@@ -33,6 +33,27 @@ REPORT ZAI226R01.
     ------------------------------------
     for all entries
     ------------------------------------
+    (class 부분에서 method attribute event 3개는 알고 넘어가자~  + static 과 instance)
+    
+    1. event 선언
+    2. event 발생
+    
+    3. 이벤트 핸들러(메소드) -> 이때 class 생성
+    정의부 구현부
+    
+    4. 실제 prgm 에 이벤트 등록 (set handler ) (create object go_event...)
+    ~~ for go_grid
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
  
     
