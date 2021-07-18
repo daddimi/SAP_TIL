@@ -16,3 +16,38 @@ REPORT ZAI226R01.
 
  WRITE : LV_CHAR,
     LV_NUMC.
+
+-----
+
+0515
+
+
+
+" 1. C, N, D, T STRING, P, I
+
+DATA : lv_char TYPE c LENGTH 10, 
+
+​			lv_numc TYPE n LENGTH 4.
+
+lv_dec = '13.33'.
+
+WRITE lv_dec.
+
+" 2. TYPE IN PRGM
+
+TYPES : ty_dats TYPE dats.
+
+DATA : lv_dats TYPE ty_dats.
+
+lv_
+
+" 3. ABAP DICTIONARY 
+
+---
+
+
+
+
+
+
+

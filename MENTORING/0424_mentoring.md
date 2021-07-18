@@ -133,6 +133,8 @@ T-CODE se11
 ABAP Dictionary 구성
 
 - Data Object - 테이블 생성(가장 많이 씀)
+  - 테이블 - transparent table 을 의미
+  - 뷰 - projection, db, maintainance, help
 - Type Definition - element, structure, table type
 - ABAP Tool - search help, lock object
 

@@ -8,13 +8,13 @@
 
 
 
-
-
 데이터 입력은 우측에서 좌측으로 but move 라는 명령어
 
 *move B to A  ==>  A=B
 
+## 데이터 선언
 
+### Data Object 
 
 Single Value 
 
@@ -35,20 +35,24 @@ Table (인터널 테이블 중요중요!! impt*)
 
 
 
-인터널 테이블  VS  데이터베이스 테이블
+인터널 테이블  VS  데이터베이스 테이블(SAP 용어로 TRANSPARENT TABLE)
 
 인터널 테이블은 프로그램이 끝나면 날아간다. 데이터베이스는 계속 꺼내쓸 수 있는 테이블
 
 
 
-데이터 타입
+### Data Type
+
+기본타입, type 정의, type in prgm
+
+*dictionary type - db obj, type 정의
 
 - ABAP predefined type = built in type
 - 프로그램 내에서 내가 지정해서 쓸 수 있지만 predefined type을 기반으로함
 
 
 
-
+line of 는 무조건 work area
 
 타입은 메모리에 올라가지 않는다. ====> local 이란 뜻
 
@@ -56,19 +60,28 @@ global = 전역
 
 
 
-ABAP - C N D T P I
+ABAP(Type in program) - C N D T P I
 
-Dictionary - NUMC, CHAR, CUKY, CURR, CLNT 등 
+- C N D T  문자형
+- P I  숫자형 
+- C N P 는 직접 길이 설정
+- P - decimal
+- N - 정해진 자릿수가 안채워지면 0으로 채움 
+- C - alpha numeric, 문자와 숫자를 같이 사용가능
+
+
+
+Dictionary(built in type/ predefined type) - NUMC, CHAR, CUKY, CURR, CLNT, QUAN, UNIT 등 
 
 abap 프로그램에서는 abap 타입과 Dictionary 타입 모두 사용 가능하지만 
 
 Dictionary 에서는 Dictionary 타입만 사용가능. 서로 같은 뜻일 순 있지만 둘이 연결되어 있다는 건 아님. 둘이 다른거임
 
-N - 정해진 자릿수가 안채워지면 0으로 채움 
 
 
 
-table 과 view도 타입형으로 쓸 수 O // DB Object 일 경우 테이블이지만 구조체 형태로 들어간다........
+
+table 과 view도 타입형으로 쓸 수 O // DB Object 일 경우 테이블이지만 구조체(structure) 형태로 들어간다........
 
 'table of'
 
@@ -102,11 +115,56 @@ activate
 
 실행 버튼 - f8 / 마술봉 오른쪽 이상한 아이콘
 
+
+
+abap dictionary 3가지 기능
+
+1) db object
+
+2) Type definition
+
+3) abap tool
+
+
+
+2) type definition
+
+- element 
+  - domain
+  - built in type
+- structure
+- table type
+- **DATABASE Object**
+  - table
+  - view
+
+
+
 -----------
+
+data object 와 data type 구분하기
+
+
+
+
+
+
 
 # FI
 
-PR --->  PO --->  GR --->  IV
+PR --->  PO --->  GR --->  IV  (--->payment)
+
+purchase request
+
+purchasing order
+
+goods receive
+
+invoice verification
+
+*지급 outgoing payment
+
+ incoming payment
 
 
 
